@@ -1,1 +1,3 @@
-# code007
+# maven-project
+
+Simple Maven Project
